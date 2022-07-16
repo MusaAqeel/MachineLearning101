@@ -1,2 +1,3 @@
-# MachineLearning101
-A website dedicated to the teaching of Machine Learning using Python.
+# For ENG3U
+
+[Website Link](https://musaaqeel.github.io/RacialDiscriminationWebsite/)
