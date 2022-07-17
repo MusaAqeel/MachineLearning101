@@ -29,6 +29,36 @@ body {
 	line-height: 1;
 }
 
+
+
+p1::after {
+	content: "\a";
+    white-space: pre;
+	
+}
+
+p1 {
+	padding-left:100px;
+    padding-top: 50;
+}
+
+
+
+
+p2::after {
+	content: "\a";
+    white-space: pre;
+	
+}
+
+p2 {
+	padding-left:200px;
+	padding-top: ;
+}
+
+
+
+
 ol, ul {
 	list-style: none;
 }
