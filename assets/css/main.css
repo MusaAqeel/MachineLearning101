@@ -25,11 +25,39 @@ article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
 
+image2 {
+	height: 60%;
+	width: 60%;
+	
+}
+
+img { 
+	display:block; 
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 25px;
+	margin-bottom: 25;
+}  
+
+image2::after{
+	content: "\a";
+    white-space: pre;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+  }
+
 body {
 	line-height: 1;
 }
 
-
+code {
+	vertical-align: baseline;
+}
 
 p1::after {
 	content: "\a";

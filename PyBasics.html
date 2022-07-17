@@ -29,7 +29,7 @@
 					<li><a href="PyBasics">Python Basics</a></li>
 					<li><a href="HowToPlotAndVisualiseDataInPy.html">How to plot and visualise data in Python</a></li>
 					<li><a href="HowToIntergateML">How to inegrate machine learning</a></li>
-					<li><a href="Example1.html">Example 1</a></li>
+					<li><a href="introMLproblem.html">Introducing an ML Problem - Bioinformatics: Species Classification</a></li>
 					<li><a href="TODO">TODO</a></li>
 
 
@@ -92,8 +92,10 @@
 							</div>
 							<div class="'inner">
 								<p1>2. Try typing </p1>
-								<p2>X = 10</p2>
-								<p2>print(x)</p2>
+								<pre><code>
+	x = 10
+	print(x)
+								</code></pre>
 								<p1>X is what we call a variable, it can store any value, number or word. 
 									“Print” is a function that prints anything to the terminal.</p1>
 							</div>
@@ -123,7 +125,9 @@
 								<p2>You can change individual variables by indexing in the array</p2>
 								
 								<p1>2. Try typing, to index the array</p1>
-								<p2>print(numbers[0])</p2>
+								<pre><code>
+	print(numbers[0])
+								</code></pre>
 								
 								<p1>This prints the first variable of the numbers array. Computers count starting from 0</p1>
 							</div>
@@ -147,16 +151,25 @@
 									<p>Third, in the example you will learn about and how to use the Python library. First of all, what is a python library? A library allows you to use programs and variables that other people have already made. Instead of making a random number generator yourself from the ground up, you can use a library to get one. </p>
 									<P>Additionally, you will learn conditional statements. You can use conditional statements to choose a desired outcome.</P>	
 									<p1>1. Try running the loaded program. What is the printed result</p1>
-									<p1>2. Try changing the x variable</p1>		
-					
-
+									<p1>2. Try changing the x variable, see what happens!</p1>		
+									<p1>3. Try adding this line just above the conditional statements</p1>
+									<pre><code>
+	x = numpy.pi
+									</code></pre>
+									<p1> Add this conditional statement at the very bottom</p1>
+									<pre><code>
+	if x < 4 or x > 3:
+  		print("This confirms pi is less then 4 and more then 3")
+										</code></pre>
+									<p1 style="margin-bottom: 1000px;">Great! Now your all set for some Macine Learning!</p1>
+									<iframe style="margin-top: 80px;" src="https://trinket.io/embed/python3/27ab799303?toggleCode=true" width="100%" height="356" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 
 				<!-- Footer -->
 				<footer id="footer">
 					<div class="inner">
 
 						<ul class="copyright">
-							<li>&copy; Wriiten and Coded by Musa Aqeel</li><li>Github: <a href="https://github.com/MusaAqeel">MusaAqeel</a></li>
+							<li>&copy; Wriiten and Coded Alexander Kravchenko, Musa Aqeel, Togla Selcuk & John Pham</li><li>Github: <a href="https://github.com/MusaAqeel">MusaAqeel</a></li>
 						</ul>
 					</div>
 				</footer>
