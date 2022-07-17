@@ -1,4 +1,5 @@
 @import url(fontawesome-all.min.css);
+@import url(prettify-desert.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,600,600italic");
 
 
@@ -28,16 +29,16 @@ footer, header, hgroup, menu, nav, section {
 image2 {
 	height: 60%;
 	width: 60%;
-	
+
 }
 
-img { 
-	display:block; 
+img {
+	display:block;
 	margin-left: auto;
 	margin-right: auto;
 	margin-top: 25px;
 	margin-bottom: 25;
-}  
+}
 
 image2::after{
 	content: "\a";
@@ -62,7 +63,7 @@ code {
 p1::after {
 	content: "\a";
     white-space: pre;
-	
+
 }
 
 p1 {
@@ -76,7 +77,7 @@ p1 {
 p2::after {
 	content: "\a";
     white-space: pre;
-	
+
 }
 
 p2 {
@@ -317,7 +318,7 @@ input, select, textarea {
 		-webkit-overflow-scrolling: touch;
 		font-family: "Courier New", monospace;
 		font-size: 0.9em;
-		margin: 0 0 2em 0;
+		margin: 2em 10em;
 	}
 
 		pre code {
