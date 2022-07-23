@@ -13,9 +13,9 @@ This website is [hosted with GitHub Pages][1] for anyone to viev and learn!
 This website was developed for [Recess Hacks 2.0][2], a Canadian hackathon
 focused on cultivating innovation in the programming field among high school students.
 
-## Updates
+## Updates 
 
-We won best UI/UX at [Recess Hacks 2.0][2] 2022!
+We won best UI/UX at [Recess Hacks 2.0][2] 2022! 🥇
 
 [1]: https://musaaqeel.github.io/MachineLearning101/
 [2]: https://recess-hacks-2022.devpost.com/
