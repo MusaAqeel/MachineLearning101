@@ -6,7 +6,7 @@ and how to apply ML using the Python programming language.
 
 ## See for yourself
 
-This website is [hosted with GitHub Pages][1] for anyone to view.
+This website is [hosted with GitHub Pages][1] for anyone to viev and learn!
 
 ## Hackathon Participation
 
