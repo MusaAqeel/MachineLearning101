@@ -1,0 +1,4 @@
+
+ReriwteEngine on
+
+ReriwteRule ^about index.html [NC]
