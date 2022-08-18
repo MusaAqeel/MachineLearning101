@@ -2,3 +2,10 @@
 ReriwteEngine on
 
 ReriwteRule ^about index.html [NC]
+ReriwteRule ^about WhatIsML.html [NC]
+ReriwteRule ^about conclusion.html [NC]
+ReriwteRule ^about PyBasics.html.html [NC]
+ReriwteRule ^about HowToPlotAndVisualiseDataInPy.html [NC]
+ReriwteRule ^about HowToIntergateML.html [NC]
+ReriwteRule ^about Example1.html [NC]
+
