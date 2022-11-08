@@ -15,7 +15,10 @@ focused on cultivating innovation in the programming field among high school stu
 
 ## Updates 
 
-We won best UI/UX at [Recess Hacks 2.0][2] 2022! 🥇
+We won best UI/UX at [Recess Hacks 2.0][2] 2022!🥇 [Verification][3] 
 
 [1]: https://musaaqeel.github.io/MachineLearning101/
 [2]: https://recess-hacks-2022.devpost.com/
+[3]: https://verification.givemycertificate.com/v/27f9767
+9-60a2-45da-97cb-784cb6a51829
+
