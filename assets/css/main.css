@@ -3012,7 +3012,7 @@ input, select, textarea {
 				}
 
 				.spotlights > section > .image:before {
-					background: rgba(36, 41, 67, 0.9);
+					background: rgba(120, 124, 144, 0.9);
 					content: '';
 					display: block;
 					height: 100%;
