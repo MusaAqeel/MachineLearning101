@@ -3012,7 +3012,7 @@ input, select, textarea {
 				}
 
 				.spotlights > section > .image:before {
-					background: rgba(120, 124, 144, 0.9);
+					background: rgba(36, 41, 67, 0.9);
 					content: '';
 					display: block;
 					height: 100%;
@@ -3314,27 +3314,27 @@ input, select, textarea {
 		}
 
 			#header.alt.style1 .logo strong {
-				color: #6fc3df;
+				color: #595953;
 			}
 
 			#header.alt.style2 .logo strong {
-				color: #8d82c4;
+				color: #595953;
 			}
 
 			#header.alt.style3 .logo strong {
-				color: #ec8d81;
+				color: #595953;
 			}
 
 			#header.alt.style4 .logo strong {
-				color: #e7b788;
+				color: #595953;
 			}
 
 			#header.alt.style5 .logo strong {
-				color: #8ea9e8;
+				color: #595953;
 			}
 
 			#header.alt.style6 .logo strong {
-				color: #87c5a4;
+				color: #595953;
 			}
 
 		body.is-preload #header.alt {
@@ -3546,27 +3546,27 @@ input, select, textarea {
 			}
 
 		#banner.style1:after {
-			background-color: #6fc3df;
+			background-color: #595953;
 		}
 
 		#banner.style2:after {
-			background-color: #8d82c4;
+			background-color: #595953;
 		}
 
 		#banner.style3:after {
-			background-color: #ec8d81;
+			background-color: #595953;
 		}
 
 		#banner.style4:after {
-			background-color: #e7b788;
+			background-color: #595953;
 		}
 
 		#banner.style5:after {
-			background-color: #8ea9e8;
+			background-color: #595953;
 		}
 
 		#banner.style6:after {
-			background-color: #87c5a4;
+			background-color: #595953;
 		}
 
 		body.is-preload #banner:after {
